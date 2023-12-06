@@ -1,1 +1,3 @@
-# the_odin_project_test
+# The odin project test!
+My first GitHub repo!
+Hello, Odin!
